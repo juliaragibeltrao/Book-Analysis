@@ -14,7 +14,7 @@ Título, Autores, Descrição, Categoria, Editora, Preço, Mês e Ano de publica
 2. **Há anos faltantes após 1900?**
    - Não — todos os anos de 1900 a 2023 possuem ao menos um livro registrado.
 3. **O preço médio cresce com o tempo ou se mantém estável?**
-   - Análise do preço médio anual de 1970 a 2023, com remoção de outlier identificado.
+   - O preço médio se mantém estável com pequenas alterações entre os anos de 2010 e 2020.
 4. **Há outliers?**
    - Sim: *"Smoky the Cowhorse"* (1926, US\$ 879,50) — valor muito acima dos demais, distorcendo a média. Removido da análise.
 
